@@ -17,10 +17,11 @@
 
 
 # Matériel 
- - Capteurs: RFID , 
- - Actionneurs : Led rouge, Led vert
+ - Capteurs: capteur RFID , capteur de proximité 
+ - Actionneurs : LEDs rouge et vert
 
 # Service Web
-
+ - Fournir la durée du garage 
+ - Fournir le montant du parking 
 
 # Interface Web
