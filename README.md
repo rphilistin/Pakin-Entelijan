@@ -19,7 +19,7 @@
 * 
 
 ## Interface Web
-* 
+* Affichage du temps de garrage
 
 ## Architecture logicielle
-*
+* Client/Serveur 2 tiers
