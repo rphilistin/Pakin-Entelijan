@@ -20,6 +20,7 @@
 
 ## Interface Web
 * Affichage du temps de garrage
+* Affichage de places de parking disponibles (libres)
 
 ## Architecture logicielle
 * Client/Serveur 2 tiers
