@@ -15,10 +15,11 @@
 * Actionneurs : LEDs rouge et verte, moteur pour ouvrir la barrière de sortie
 
 ## Service Web
-*
+* Calcule du temps de garrage
+* 
 
 ## Interface Web
-*
+* 
 
 ## Architecture logicielle
 *
